@@ -1,0 +1,25 @@
+[package]
+name = "torture-importer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.89"
+dotenvy = "0.15.7"
+serde = { version = "1.0.210", features = ["derive"] }
+surrealdb = "2.0.1"
+tokio = { version = "1.40.0", features = [
+    "rt-multi-thread",
+    "sync",
+    "macros",
+    "fs",
+] }
+torture-parser = { path = "../torture/crates/torture-parser" }
+tracing = "0.1.40"
+tracing-subscriber = "0.3.18"
+toml = "0.8.19"
+clap = { version = "4.5.17", features = ["derive"] }
+serde_yml = "0.0.12"
+chrono = { version = "0.4.38", features = ["serde"] }
+serde_json = "1.0.128"
+itertools = "0.13.0"

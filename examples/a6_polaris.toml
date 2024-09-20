@@ -1,0 +1,6 @@
+path = "C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\304930\\2898548949\\A6 Polaris\\Bundles" # Path to the .masterbundle location.
+
+[workshop]
+id = 2898548949
+name = "A6 Polaris"
+authors = ["Renaxon", "danaby2", "LVOmega"]

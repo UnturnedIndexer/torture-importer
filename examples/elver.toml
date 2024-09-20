@@ -1,0 +1,6 @@
+path = "C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\304930\\2136497468\\Elver\\Bundles\\Main" # Path to the .masterbundle location.
+
+[workshop]
+id = 2136497468
+name = "Elver"
+authors = ["Renaxon", "danaby2"]

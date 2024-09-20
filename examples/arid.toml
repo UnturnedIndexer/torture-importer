@@ -1,0 +1,6 @@
+path = "C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\304930\\2683620106\\Arid\\Bundles\\MAIN" # Path to the .masterbundle location.
+
+[workshop]
+id = 2683620106
+name = "Arid"
+authors = ["Renaxon", "dug", "danaby2"]
